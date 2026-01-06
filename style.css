@@ -1,2 +1,13 @@
 
+bory {
+    background-color: #000;
+    color: #fff;
+}
 
+
+h1 {
+    background-color: red;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
