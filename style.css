@@ -4,6 +4,11 @@ bory {
     color: #fff;
 }
 
+body {
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+    font-family: sans-serif;
 
 h1 {
     background-color: red;
